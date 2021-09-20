@@ -1,0 +1,4 @@
+MaxMob: "&eMob limit achieved for this chunk!"
+Mobs:
+  - COW:5
+  - CHICKEN:3

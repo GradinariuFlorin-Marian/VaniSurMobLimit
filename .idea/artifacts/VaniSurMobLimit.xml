@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VaniSurMobLimit">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="VaniSurMobLimit.jar">
+      <element id="module-output" name="VaniSurMobLimit" />
+    </root>
+  </artifact>
+</component>
